@@ -71,7 +71,7 @@ export default App;
 |GridView | ❎ |
 |Icon | ❎ |
 |IconButton | ❎ |
-|DropdownButton | ❌ |
+|DropdownButton | ❎ |
 |TextField | ❌ |
 |Checkbox | ❌ |
 |Radio | ❌ |
