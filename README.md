@@ -100,7 +100,7 @@ export default App;
 |GestureDetector | ❎ |
 |Overlay | ❎ |
 |OverlayEntry | ❎ |
-|SnackBar | ❌ |
+|SnackBar | ❎ |
 |AlertDialog | ❌ |
 |BottomSheet | ❌ |
 |FloatingActionButton | ❌ |
