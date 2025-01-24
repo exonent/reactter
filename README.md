@@ -73,7 +73,7 @@ export default App;
 |IconButton | ❎ |
 |DropdownButton | ❎ |
 |TextField | ❎ |
-|Checkbox | ❌ |
+|Checkbox | ❎ |
 |Radio | ❌ |
 |Slider | ❌ |
 |Switch | ❌ |
