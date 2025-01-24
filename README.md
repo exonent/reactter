@@ -92,7 +92,7 @@ export default App;
 |ClipPath | ❎ |
 |DecoratedBox | ❎ |
 |DecoratedBoxBackground | ❎ |
-|PhysicalModel | ❌ |
+|PhysicalModel | ❎ |
 |PhysicalShape | ❌ |
 |InkWell | ❌ |
 |InkResponse | ❌ |
