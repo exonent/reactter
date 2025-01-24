@@ -37,6 +37,7 @@ npm login
 ```bash
 npm publish --access public
 ```
+
 ## Documentación y Uso
 
 Asegúrate de incluir una buena documentación en tu `README.md` para que otros desarrolladores sepan cómo usar tu librería.
@@ -57,9 +58,9 @@ export default App;
 
 | Widget | Transformed (❌ or ❎) |
 | --- | --- |
-|Container | ❌ |
-|Text | ❌ |
-|Image | ❌ |
+|Container | ❎ |
+|Text | ❎ |
+|Image | ❎ |
 |Button | ❌ |
 |AppBar | ❌ |
 |Scaffold | ❌ |
