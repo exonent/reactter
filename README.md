@@ -105,7 +105,7 @@ export default App;
 |BottomSheet | ❎ |
 |FloatingActionButton | ❎ |
 |FloatingActionButtonLocation | ❎ |
-|FloatingActionButtons | ❌ |
+|FloatingActionButtons | ❎ |
 |ModalBottomSheet | ❌ |
 |SimpleDialog | ❌ |
 
