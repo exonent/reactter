@@ -84,7 +84,7 @@ export default App;
 |AnimatedSize | ❎ |
 |FadeTransition | ❎ |
 |Align | ❎ |
-|Padding | ❌ |
+|Padding | ❎ |
 |Expanded | ❌ |
 |AspectRatio | ❌ |
 |ClipRect | ❌ |
