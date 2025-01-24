@@ -95,7 +95,7 @@ export default App;
 |PhysicalModel | ❎ |
 |PhysicalShape | ❎ |
 |InkWell | ❎ |
-|InkResponse | ❌ |
+|InkResponse | ❎ |
 |Ink | ❌ |
 |GestureDetector | ❌ |
 |Overlay | ❌ |
