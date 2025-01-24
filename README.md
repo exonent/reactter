@@ -63,7 +63,7 @@ export default App;
 |Image | ❎ |
 |Button | ❎ |
 |AppBar | ❎ |
-|Scaffold | ❌ |
+|Scaffold | ❎ |
 |Column | ❌ |
 |Row | ❌ |
 |Stack | ❌ |
