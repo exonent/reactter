@@ -78,7 +78,7 @@ export default App;
 |Slider | ❎ |
 |Switch | ❎ |
 |PopupMenuButton | ❎ |
-|AnimatedContainer | ❌ |
+|AnimatedContainer | ❎ |
 |AnimatedOpacity | ❌ |
 |AnimatedPositioned | ❌ |
 |AnimatedSize | ❌ |
