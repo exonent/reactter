@@ -102,7 +102,7 @@ export default App;
 |OverlayEntry | ❎ |
 |SnackBar | ❎ |
 |AlertDialog | ❎ |
-|BottomSheet | ❌ |
+|BottomSheet | ❎ |
 |FloatingActionButton | ❌ |
 |FloatingActionButtonLocation | ❌ |
 |FloatingActionButtons | ❌ |
