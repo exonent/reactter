@@ -77,7 +77,7 @@ export default App;
 |Radio | ❎ |
 |Slider | ❎ |
 |Switch | ❎ |
-|PopupMenuButton | ❌ |
+|PopupMenuButton | ❎ |
 |AnimatedContainer | ❌ |
 |AnimatedOpacity | ❌ |
 |AnimatedPositioned | ❌ |
