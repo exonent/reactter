@@ -70,7 +70,7 @@ export default App;
 |ListView | ❎ |
 |GridView | ❎ |
 |Icon | ❎ |
-|IconButton | ❌ |
+|IconButton | ❎ |
 |DropdownButton | ❌ |
 |TextField | ❌ |
 |Checkbox | ❌ |
