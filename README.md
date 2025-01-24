@@ -91,7 +91,7 @@ export default App;
 |ClipRRect | ❎ |
 |ClipPath | ❎ |
 |DecoratedBox | ❎ |
-|DecoratedBoxBackground | ❌ |
+|DecoratedBoxBackground | ❎ |
 |PhysicalModel | ❌ |
 |PhysicalShape | ❌ |
 |InkWell | ❌ |
