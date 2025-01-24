@@ -83,7 +83,7 @@ export default App;
 |AnimatedPositioned | ❎ |
 |AnimatedSize | ❎ |
 |FadeTransition | ❎ |
-|Align | ❌ |
+|Align | ❎ |
 |Padding | ❌ |
 |Expanded | ❌ |
 |AspectRatio | ❌ |
