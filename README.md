@@ -80,7 +80,7 @@ export default App;
 |PopupMenuButton | ❎ |
 |AnimatedContainer | ❎ |
 |AnimatedOpacity | ❎ |
-|AnimatedPositioned | ❌ |
+|AnimatedPositioned | ❎ |
 |AnimatedSize | ❌ |
 |FadeTransition | ❌ |
 |Align | ❌ |
