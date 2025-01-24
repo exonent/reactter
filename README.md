@@ -97,7 +97,7 @@ export default App;
 |InkWell | ❎ |
 |InkResponse | ❎ |
 |Ink | ❎ |
-|GestureDetector | ❌ |
+|GestureDetector | ❎ |
 |Overlay | ❌ |
 |OverlayEntry | ❌ |
 |SnackBar | ❌ |
