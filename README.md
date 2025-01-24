@@ -86,7 +86,7 @@ export default App;
 |Align | ❎ |
 |Padding | ❎ |
 |Expanded | ❎ |
-|AspectRatio | ❌ |
+|AspectRatio | ❎ |
 |ClipRect | ❌ |
 |ClipRRect | ❌ |
 |ClipPath | ❌ |
