@@ -81,7 +81,7 @@ export default App;
 |AnimatedContainer | ❎ |
 |AnimatedOpacity | ❎ |
 |AnimatedPositioned | ❎ |
-|AnimatedSize | ❌ |
+|AnimatedSize | ❎ |
 |FadeTransition | ❌ |
 |Align | ❌ |
 |Padding | ❌ |
