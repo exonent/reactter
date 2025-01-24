@@ -82,7 +82,7 @@ export default App;
 |AnimatedOpacity | ❎ |
 |AnimatedPositioned | ❎ |
 |AnimatedSize | ❎ |
-|FadeTransition | ❌ |
+|FadeTransition | ❎ |
 |Align | ❌ |
 |Padding | ❌ |
 |Expanded | ❌ |
