@@ -89,7 +89,7 @@ export default App;
 |AspectRatio | ❎ |
 |ClipRect | ❎ |
 |ClipRRect | ❎ |
-|ClipPath | ❌ |
+|ClipPath | ❎ |
 |DecoratedBox | ❌ |
 |DecoratedBoxBackground | ❌ |
 |PhysicalModel | ❌ |
