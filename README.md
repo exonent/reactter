@@ -93,7 +93,7 @@ export default App;
 |DecoratedBox | ❎ |
 |DecoratedBoxBackground | ❎ |
 |PhysicalModel | ❎ |
-|PhysicalShape | ❌ |
+|PhysicalShape | ❎ |
 |InkWell | ❌ |
 |InkResponse | ❌ |
 |Ink | ❌ |
