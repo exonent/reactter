@@ -1,35 +1,37 @@
 const path = require('path');
+const HtmlWebpackPlugin = require('html-webpack-plugin');
 
 module.exports = {
-    entry: './src/index.js',
+    entry: './src/example/index.js',
     output: {
         path: path.resolve(__dirname, 'dist'),
-        filename: 'index.js',
-        library: 'my-react-library',
-        libraryTarget: 'umd',
-        umdNamedDefine: true,
+        filename: 'bundle.js'
     },
     module: {
         rules: [
             {
-                test: /\.js$/,
+                test: /\.(js|jsx)$/,
                 exclude: /node_modules/,
-                use: 'babel-loader',
-            },
-        ],
+                use: {
+                    loader: 'babel-loader'
+                }
+            }
+        ]
     },
-    externals: {
-        react: {
-            commonjs: 'react',
-            commonjs2: 'react',
-            amd: 'React',
-            root: 'React',
-        },
-        'react-dom': {
-            commonjs: 'react-dom',
-            commonjs2: 'react-dom',
-            amd: 'ReactDOM',
-            root: 'ReactDOM',
-        },
+    resolve: {
+        extensions: ['.js', '.jsx']
     },
+    plugins: [
+        new HtmlWebpackPlugin({
+            template: './src/example/index.html',
+            filename: 'index.html'
+        })
+    ],
+    devServer: {
+        static: {
+            directory: path.join(__dirname, 'dist'),
+        },
+        compress: true,
+        port: 9000
+    }
 };
