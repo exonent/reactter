@@ -103,7 +103,7 @@ export default App;
 |SnackBar | ❎ |
 |AlertDialog | ❎ |
 |BottomSheet | ❎ |
-|FloatingActionButton | ❌ |
+|FloatingActionButton | ❎ |
 |FloatingActionButtonLocation | ❌ |
 |FloatingActionButtons | ❌ |
 |ModalBottomSheet | ❌ |
