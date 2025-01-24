@@ -94,7 +94,7 @@ export default App;
 |DecoratedBoxBackground | ❎ |
 |PhysicalModel | ❎ |
 |PhysicalShape | ❎ |
-|InkWell | ❌ |
+|InkWell | ❎ |
 |InkResponse | ❌ |
 |Ink | ❌ |
 |GestureDetector | ❌ |
