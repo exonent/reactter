@@ -62,7 +62,7 @@ export default App;
 |Text | ❎ |
 |Image | ❎ |
 |Button | ❎ |
-|AppBar | ❌ |
+|AppBar | ❎ |
 |Scaffold | ❌ |
 |Column | ❌ |
 |Row | ❌ |
