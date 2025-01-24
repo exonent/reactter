@@ -90,7 +90,7 @@ export default App;
 |ClipRect | ❎ |
 |ClipRRect | ❎ |
 |ClipPath | ❎ |
-|DecoratedBox | ❌ |
+|DecoratedBox | ❎ |
 |DecoratedBoxBackground | ❌ |
 |PhysicalModel | ❌ |
 |PhysicalShape | ❌ |
