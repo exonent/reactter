@@ -98,7 +98,7 @@ export default App;
 |InkResponse | ❎ |
 |Ink | ❎ |
 |GestureDetector | ❎ |
-|Overlay | ❌ |
+|Overlay | ❎ |
 |OverlayEntry | ❌ |
 |SnackBar | ❌ |
 |AlertDialog | ❌ |
