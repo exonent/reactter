@@ -104,7 +104,7 @@ export default App;
 |AlertDialog | ❎ |
 |BottomSheet | ❎ |
 |FloatingActionButton | ❎ |
-|FloatingActionButtonLocation | ❌ |
+|FloatingActionButtonLocation | ❎ |
 |FloatingActionButtons | ❌ |
 |ModalBottomSheet | ❌ |
 |SimpleDialog | ❌ |
