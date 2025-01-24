@@ -67,7 +67,7 @@ export default App;
 |Column | ❎ |
 |Row | ❎ |
 |Stack | ❎ |
-|ListView | ❌ |
+|ListView | ❎ |
 |GridView | ❌ |
 |Icon | ❌ |
 |IconButton | ❌ |
