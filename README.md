@@ -64,7 +64,7 @@ export default App;
 |Button | ❎ |
 |AppBar | ❎ |
 |Scaffold | ❎ |
-|Column | ❌ |
+|Column | ❎ |
 |Row | ❌ |
 |Stack | ❌ |
 |ListView | ❌ |
