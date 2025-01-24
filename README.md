@@ -74,7 +74,7 @@ export default App;
 |DropdownButton | ❎ |
 |TextField | ❎ |
 |Checkbox | ❎ |
-|Radio | ❌ |
+|Radio | ❎ |
 |Slider | ❌ |
 |Switch | ❌ |
 |PopupMenuButton | ❌ |
