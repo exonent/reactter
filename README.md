@@ -106,7 +106,7 @@ export default App;
 |FloatingActionButton | ❎ |
 |FloatingActionButtonLocation | ❎ |
 |FloatingActionButtons | ❎ |
-|ModalBottomSheet | ❌ |
+|ModalBottomSheet | ❎ |
 |SimpleDialog | ❌ |
 
 ## Ejemplo de transformación Flutter to React
