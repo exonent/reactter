@@ -76,7 +76,7 @@ export default App;
 |Checkbox | ❎ |
 |Radio | ❎ |
 |Slider | ❎ |
-|Switch | ❌ |
+|Switch | ❎ |
 |PopupMenuButton | ❌ |
 |AnimatedContainer | ❌ |
 |AnimatedOpacity | ❌ |
