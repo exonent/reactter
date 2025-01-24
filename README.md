@@ -99,7 +99,7 @@ export default App;
 |Ink | ❎ |
 |GestureDetector | ❎ |
 |Overlay | ❎ |
-|OverlayEntry | ❌ |
+|OverlayEntry | ❎ |
 |SnackBar | ❌ |
 |AlertDialog | ❌ |
 |BottomSheet | ❌ |
