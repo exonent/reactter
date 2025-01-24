@@ -85,7 +85,7 @@ export default App;
 |FadeTransition | ❎ |
 |Align | ❎ |
 |Padding | ❎ |
-|Expanded | ❌ |
+|Expanded | ❎ |
 |AspectRatio | ❌ |
 |ClipRect | ❌ |
 |ClipRRect | ❌ |
