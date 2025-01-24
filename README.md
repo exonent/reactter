@@ -75,7 +75,7 @@ export default App;
 |TextField | ❎ |
 |Checkbox | ❎ |
 |Radio | ❎ |
-|Slider | ❌ |
+|Slider | ❎ |
 |Switch | ❌ |
 |PopupMenuButton | ❌ |
 |AnimatedContainer | ❌ |
