@@ -69,7 +69,7 @@ export default App;
 |Stack | ❎ |
 |ListView | ❎ |
 |GridView | ❎ |
-|Icon | ❌ |
+|Icon | ❎ |
 |IconButton | ❌ |
 |DropdownButton | ❌ |
 |TextField | ❌ |
