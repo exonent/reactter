@@ -1,0 +1,39 @@
+# Default .gitignore file for react library
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# Dependency directories
+node_modules/
+
+# Compiled output
+/dist/
+
+# Logs and databases
+*.log
+*.sqlite
+
+# OS generated files
+.DS_Store
+ehthumbs.db
+Icon?
+Thumbs.db
+
+# NPM package files
+npm-debug.log
+
+# Yarn package files
+yarn-error.log
+
+# IDE files
+.idea/
+.vscode/
+*.iml
+*.ipr
+*.iws
+
+# Build files
+build/
+*.swp
+
+# Misc
+*.DS_Store
+*.env
