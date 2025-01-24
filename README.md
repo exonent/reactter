@@ -79,7 +79,7 @@ export default App;
 |Switch | ❎ |
 |PopupMenuButton | ❎ |
 |AnimatedContainer | ❎ |
-|AnimatedOpacity | ❌ |
+|AnimatedOpacity | ❎ |
 |AnimatedPositioned | ❌ |
 |AnimatedSize | ❌ |
 |FadeTransition | ❌ |
